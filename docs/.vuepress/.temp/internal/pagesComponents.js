@@ -5,4 +5,6 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/学习资料整理/VuePress/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/学习资料整理/VuePress/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /htmlcss/less.html
+  "v-bcc44ba0": defineAsyncComponent(() => import(/* webpackChunkName: "v-bcc44ba0" */"D:/学习资料整理/VuePress/docs/.vuepress/.temp/pages/htmlcss/less.html.vue")),
 }
