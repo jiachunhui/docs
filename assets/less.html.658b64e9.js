@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as t,a as e,b as r}from"./app.9a903647.js";const c={},o=e("h1",{id:"less",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#less","aria-hidden":"true"},"#"),r(" LESS")],-1),_=[o];function n(l,d){return a(),t("div",null,_)}var h=s(c,[["render",n],["__file","less.html.vue"]]);export{h as default};
